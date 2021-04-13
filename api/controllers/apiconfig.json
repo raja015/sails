@@ -1,0 +1,20 @@
+{
+  "api1": {
+    "api":"api1",
+    "group1": {
+      "maxcount": 5
+    },
+    "group2": {
+      "maxcount": 3
+    }
+  },
+  "api2": {
+    "api":"api2",
+    "group1": {
+      "maxcount": 3
+    },
+    "group2": {
+      "maxcount": 5
+    }
+  }
+}
